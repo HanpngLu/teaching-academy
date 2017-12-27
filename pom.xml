@@ -83,7 +83,7 @@
 		</repository>	
 	</distributionManagement>
 	
-	<!--  connecting to GITHUB  -->
+	<!--  connecting to GITHUB from git cmd line  -->
 	<scm>
 		<connection>scm:git@github.com:HanpngLu/teaching-academy.git</connection>
 		<developerConnection>scm:git@github.com:HanpngLu/teaching-academy.git</developerConnection>
